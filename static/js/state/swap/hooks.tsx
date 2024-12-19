@@ -558,7 +558,7 @@ export function usePoolAddress(
 
     // no address; set default
     if (poolAddress == '' || poolAddress == undefined || poolAddress == null) {
-      poolAddress = (chainId && Trigon[chainId].address) || '0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789'
+      poolAddress = (chainId && Trigon[chainId].address) || '0x601995C919310f03c75d1db730775F18b15Fa717'
     }
 
     networkName = (chainId && ChainName[chainId]) || 'ethereum'

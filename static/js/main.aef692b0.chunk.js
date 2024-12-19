@@ -2922,7 +2922,7 @@
           Object(U.a)(
             tn,
             f.MAINNET,
-            "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789"
+            "0x601995C919310f03c75d1db730775F18b15Fa717"
           ),
           Object(U.a)(
             tn,
@@ -7071,7 +7071,7 @@
               ("" != n && void 0 != n && null != n) ||
                 (n =
                   (a && si[a].address) ||
-                  "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789"),
+                  "0x601995C919310f03c75d1db730775F18b15Fa717"),
               { poolAddress: n, networkName: (a && h[a]) || "ethereum" }
             );
           },
